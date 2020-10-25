@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://wathek123:wathek123@cluster0.vzop0.mongodb.net/eLearning?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://wathek123:wathek123@cluster0.vzop0.mongodb.net/eLearning?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
 }
